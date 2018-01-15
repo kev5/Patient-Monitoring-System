@@ -11,6 +11,7 @@ All the details of the project are included in the [Project Report](https://gith
 ## Built With
 
 * Atmega8 Microcontroller
+* C++
 * RFID module
 * GSM module
 * PHP
