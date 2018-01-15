@@ -7,3 +7,12 @@ RFID and GSM based Patient Monitoring System 😷🚑
 * Developed a website using PHP, CSS and MySQL for ease in maintaining and updating a patient’s medical records.
 
 All the details of the project are included in the [Project Report](https://github.com/kev5/Patient-Monitoring-System/blob/master/BE%20PROJECT%20REPORT.pdf).
+
+## Built With
+
+* Atmega8 Microcontroller
+* RFID module
+* GSM module
+* PHP
+* MySQL
+* HTML/CSS
